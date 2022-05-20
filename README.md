@@ -14,3 +14,4 @@ Your output will look something like this.
 
 
 By applying the maths formula we can rotate these clock lines.
+comment in the source code discribe everything.
